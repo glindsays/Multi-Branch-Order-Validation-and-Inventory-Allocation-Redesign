@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_price,reorder_threshold
+1,Mat Lam Tam,Hardware,791699,30
+2,Bamity,Electronics,3842592,20
+3,Tempsoft,Hardware,3015896,23
+4,Bitwolf,Cables,1685892,26
+5,Konklux,Electronics,1705927,11
+6,Pannier,Electronics,1166558,20
+7,Y-Solowarm,Hardware,307847,15
+8,Temp,Electronics,2835729,22
+9,Span,Cables,118808,19
+10,Tin,Hardware,4515860,30
+11,Fix San,Paints,2688297,27
+12,Cookley,Cables,2847243,21
+13,Regrant,Appliances,1671011,12
+14,Konklux,Hardware,1832730,15
+15,Mat Lam Tam,Appliances,3227710,10
+16,Y-find,Paints,3640842,12
+17,Regrant,Cables,4595813,25
+18,Lotstring,Cables,1119993,12
+19,Voltsillam,Cables,4081527,11
+20,Viva,Appliances,4990552,21
+21,Transcof,Electronics,1227171,11
+22,Span,Cables,4743558,10
+23,Sub-Ex,Paints,297428,23
+24,Rank,Hardware,4639601,22
+25,Aerified,Hardware,1917668,23
+26,Rank,Paints,807264,17
+27,Lotstring,Electronics,3892598,10
+28,Lotlux,Electronics,4386717,28
+29,Flexidy,Paints,3201116,12
+30,Temp,Paints,3302709,10
+31,Tresom,Hardware,3411522,11
+32,Matsoft,Appliances,1009309,11
+33,Otcom,Paints,2687913,26
+34,Pannier,Paints,4831652,26
+35,Andalax,Electronics,4302816,18
+36,Gembucket,Hardware,4165323,24
+37,Cardify,Appliances,4223652,29
+38,Alphazap,Electronics,1495439,23
+39,Opela,Appliances,3163588,16
+40,Viva,Cables,565207,12
+41,Redhold,Cables,2121150,15
+42,Overhold,Appliances,2867250,15
+43,Bitchip,Cables,1275097,30
+44,Tampflex,Paints,2214556,18
+45,Bytecard,Cables,1937191,24
+46,Tres-Zap,Paints,221092,29
+47,Kanlam,Electronics,50727,27
+48,Konklab,Electronics,4369910,26
+49,Fix San,Appliances,3463204,10
+50,Konklab,Electronics,2565526,23
